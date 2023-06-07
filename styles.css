@@ -1,0 +1,41 @@
+img {
+    width: 1440px;
+}
+
+body {
+    margin: 0;
+}
+
+p {
+    color: red;
+}
+
+button {
+    background-color: white;
+    border: none;
+    border-radius: 10%;
+}
+
+.topmenu {
+    position: absolute;
+    top: 20px; 
+    left: 20px; 
+    padding: 10px;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.topmenu li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.topmenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    right: 100px;
+}
